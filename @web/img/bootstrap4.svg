@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 43363)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="106.667px" height="20px" viewBox="0 0 106.667 20" enable-background="new 0 0 106.667 20" xml:space="preserve">
+<g id="图层_1">
+	<g id="图层_1_1_">
+		<g>
+			<g>
+				<defs>
+					<path id="SVGID_1_" d="M3.636,0.003h99.394c2.008,0,3.637,1.343,3.637,3v14c0,1.656-1.629,3-3.637,3H3.636
+						c-2.008,0-3.636-1.344-3.636-3v-14C0,1.346,1.628,0.003,3.636,0.003z"/>
+				</defs>
+				<clipPath id="SVGID_2_">
+					<use xlink:href="#SVGID_1_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_2_)">
+					<rect y="0.003" fill="#555555" width="26.333" height="20"/>
+					<rect x="26.25" y="0.003" fill="#007EC6" width="80.417" height="20"/>
+					
+						<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="-1402.8271" y1="28.7656" x2="-1402.8271" y2="29.7656" gradientTransform="matrix(88 0 0 20 123502.125 -575.3125)">
+						<stop  offset="0" style="stop-color:#BBBBBB;stop-opacity:0.1"/>
+						<stop  offset="1" style="stop-color:#000000;stop-opacity:0.1"/>
+					</linearGradient>
+					<rect y="0.003" fill="url(#SVGID_3_)" width="106.667" height="20"/>
+				</g>
+			</g>
+		</g>
+		<g text-rendering="geometricPrecision">
+			<text transform="matrix(1 0 0 1 30.7915 14.0781)" fill="#FFFFFF" font-family="'MicrosoftYaHeiUI-Bold'" font-size="11">Bootstrap v4</text>
+		</g>
+	</g>
+</g>
+<g id="图层_2_1_">
+	<g>
+		<path fill="#563D7C" d="M20.5,14.667c0,1.282-1.05,2.332-2.333,2.332H8.834C7.55,17.001,6.5,15.951,6.5,14.667V5.335
+			c0-1.285,1.05-2.334,2.334-2.334h9.333c1.283,0,2.333,1.05,2.333,2.334V14.667z"/>
+		<path fill="#FFFFFF" d="M10.125,5.926h3.966c0.729,0,1.326,0.161,1.764,0.511s0.656,0.845,0.656,1.517
+			c0,0.408-0.102,0.758-0.306,1.05C16,9.296,15.709,9.529,15.344,9.69V9.72c0.511,0.102,0.889,0.35,1.138,0.714
+			c0.263,0.364,0.394,0.831,0.394,1.386c0,0.32-0.058,0.627-0.175,0.89c-0.117,0.276-0.292,0.524-0.539,0.714
+			c-0.249,0.205-0.555,0.364-0.933,0.481c-0.38,0.117-0.832,0.175-1.356,0.175h-3.747V5.926z M11.553,9.337h2.333
+			c0.351,0,0.627-0.102,0.861-0.292c0.232-0.189,0.35-0.481,0.35-0.846c0-0.408-0.102-0.7-0.306-0.875
+			c-0.205-0.161-0.512-0.248-0.89-0.248h-2.334L11.553,9.337z M11.553,12.925h2.523c0.438,0,0.773-0.117,1.007-0.336
+			c0.232-0.219,0.364-0.539,0.364-0.963c0-0.408-0.117-0.714-0.364-0.933c-0.249-0.219-0.583-0.32-1.007-0.32h-2.523V12.925z"/>
+	</g>
+</g>
+</svg>
